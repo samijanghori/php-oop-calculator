@@ -1,0 +1,13 @@
+# Dependencies
+/vendor/
+
+# Environment variables
+.env
+
+# IDE / Editor files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
